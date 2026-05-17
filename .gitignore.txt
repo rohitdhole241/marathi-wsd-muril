@@ -1,0 +1,14 @@
+# Model weights
+*.pt
+*.bin
+
+# Virtual environment
+venv/
+
+# Dataset (too large)
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+.env
